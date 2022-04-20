@@ -11,7 +11,7 @@
 
 ### Descrição ☝
 > Desafio Prático
-> Que consiste em um sistema de cadastro de Hóspedes e Acomodações. Utilizando MySQL como Banco de Dados e o Prisma como ORM.
+> que consiste em um sistema de cadastro de Hóspedes e Acomodações. Utilizando MySQL como Banco de Dados e o Prisma como ORM.
 
 
 ## Ajustes e melhorias ⚙🛠
@@ -24,6 +24,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Deletar Hóspede
 - [x] Atualizar Hóspede
 - [x] Cadastro de Acomodação
+- [ ] Cálculo da estadia
+- [x] Cálculo de Dias em que o Hóspede ficou hospedado - Check-In e Check-Out
 - [x] Validação de Acomodação
 - [ ] Deletar Acomodação
 - [ ] Atualização Acomodação
