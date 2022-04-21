@@ -24,12 +24,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Deletar Hóspede
 - [x] Atualizar Hóspede
 - [x] Cadastro de Acomodação
-- [ ] Cálculo da estadia
+- [x] Cálculo da estadia
 - [x] Cálculo de Dias em que o Hóspede ficou hospedado - Check-In e Check-Out
 - [x] Validação de Acomodação
-- [ ] Deletar Acomodação
-- [ ] Atualização Acomodação
-- [ ] Relacionamento entre Hóspede e sua respectiva Acomodação - One to One
+- [x] Deletar Acomodação
+- [x] Atualização Acomodação
+- [x] Relacionamento entre Hóspede e sua respectiva Acomodação - One to One
 
 ## Feito Com: ⚒
 ![Node.Js](https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white)
